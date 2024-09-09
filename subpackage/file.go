@@ -4,5 +4,6 @@ import gotest "github.com/De-Zol/go-test"
 
 type SubStruct struct {
 	gotest.TestStruct
-	LName string
+	LName   string
+	XzField string
 }
